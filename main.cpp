@@ -1,13 +1,16 @@
 #include<iostream>
 
-<<<<<<< HEAD
 void bubblesort(){
 	//
 }
-=======
-void quickSort(){
 
->>>>>>> quicksort
+void quickSort(){
+	//
+}
+
+void mergesort(){
+	//
+}
 
 int main(){
 std::cout<<"hello word";
